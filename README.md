@@ -1,21 +1,10 @@
 # Home Network Security
 
 ## Objective
-The primary objective of this project was to establish a robust and scalable Security Operations Center (SOC) environment within a home network. This setup was designed to simulate the real-world responsibilities of a SOC Analyst, focusing on continuous monitoring, threat detection, and incident response.
+This project aimed to set up a Security Operations Center (SOC) environment to monitor and protect a home network. The project focuses on the detection and analysis of potential security threats using industry-standard tools and methodologies.
 
-The project aimed to provide hands-on experience with industry-standard cybersecurity tools and methodologies, bridging the gap between theoretical knowledge and practical application. By implementing a comprehensive suite of open-source tools, the project sought to replicate the challenges faced by cybersecurity professionals in protecting network infrastructure against evolving cyber threats.
-
-Key goals included:
-
-- Threat Detection and Analysis: Deploying and configuring Intrusion Detection Systems (IDS) to monitor network traffic and identify potential security threats in real time.
-
-- Log Management and Analysis: Implementing a centralized log management system to collect, store, and analyze logs from various sources, enabling proactive threat identification and forensic investigations.
-
-- Incident Response: Developing and testing incident response procedures to effectively address security incidents, minimize damage, and restore normal operations as quickly as possible.
-
-- Automation and Efficiency: Utilizing scripting tools to automate repetitive tasks, improving the overall efficiency and responsiveness of the SOC environment.
-
-This project was designed as a learning exercise and a proof of concept for building a cost-effective, yet powerful, SOC setup that could be applied in both personal and professional contexts. The experience gained through this project has equipped me with the necessary skills to excel in a SOC Analyst role, where proactive defense and quick response are critical to maintaining the security of digital assets.
+## Project Overview
+This project involved configuring a variety of open-source security tools to create a comprehensive monitoring solution. The setup was designed to simulate a real-world SOC environment, enabling proactive threat detection, log analysis, and incident response.
 
 ### Skills Learned
 
@@ -40,3 +29,6 @@ This project was designed as a learning exercise and a proof of concept for buil
 - Suricata: For network intrusion detection and monitoring.
 - PowerShell: For scripting and automating various tasks.
 
+### Conclusion
+
+This project provided valuable insights into the practical aspects of network security, from setting up and configuring monitoring tools to actively defending against potential threats. It serves as a foundational experience for a future role as a SOC Analyst, equipping me with the skills needed to protect digital environments.
