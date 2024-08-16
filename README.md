@@ -1,30 +1,42 @@
 # Home Network Security
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+The primary objective of this project was to establish a robust and scalable Security Operations Center (SOC) environment within a home network. This setup was designed to simulate the real-world responsibilities of a SOC Analyst, focusing on continuous monitoring, threat detection, and incident response.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The project aimed to provide hands-on experience with industry-standard cybersecurity tools and methodologies, bridging the gap between theoretical knowledge and practical application. By implementing a comprehensive suite of open-source tools, the project sought to replicate the challenges faced by cybersecurity professionals in protecting network infrastructure against evolving cyber threats.
+
+Key goals included:
+
+- Threat Detection and Analysis: Deploying and configuring Intrusion Detection Systems (IDS) to monitor network traffic and identify potential security threats in real time.
+
+- Log Management and Analysis: Implementing a centralized log management system to collect, store, and analyze logs from various sources, enabling proactive threat identification and forensic investigations.
+
+- Incident Response: Developing and testing incident response procedures to effectively address security incidents, minimize damage, and restore normal operations as quickly as possible.
+
+- Automation and Efficiency: Utilizing scripting tools to automate repetitive tasks, improving the overall efficiency and responsiveness of the SOC environment.
+
+This project was designed as a learning exercise and a proof of concept for building a cost-effective, yet powerful, SOC setup that could be applied in both personal and professional contexts. The experience gained through this project has equipped me with the necessary skills to excel in a SOC Analyst role, where proactive defense and quick response are critical to maintaining the security of digital assets.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Network Security: Gained hands-on experience in monitoring and securing a home network environment.
+  
+- Intrusion Detection Systems (IDS): Set up and configured IDS tools to detect and analyze potential security threats.
+  
+- Log Analysis: Learned how to collect, forward, and analyze logs using Filebeat, Elasticsearch, and Kibana.
+  
+- Threat Hunting: Conducted threat hunting exercises to identify and mitigate potential risks proactively.
+  
+- Incident Response: Simulated and responded to various security incidents, improving readiness for real-world scenarios.
+  
+- Scripting: Used PowerShell for automation, improving efficiency in the SOC environment.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
+- Wazuh: For host-based intrusion detection and log management.
+- Filebeat: To collect and forward logs to Elasticsearch.
+- Elasticsearch: For storing and indexing logs for analysis.
+- Kibana: To visualize logs and create custom dashboards for real-time monitoring.
+- Wireshark: For network traffic analysis and packet inspection.
+- Suricata: For network intrusion detection and monitoring.
+- PowerShell: For scripting and automating various tasks.
 
