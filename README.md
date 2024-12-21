@@ -1,6 +1,6 @@
 # SOC Automation
 
- ### [MYDFIR YouTube: SOC Automation Guide](https://www.youtube.com/watch?v=XR3eamn8ydQ&list=PLG6KGSNK4PuBWmX9NykU0wnWamjxdKhDJ&index=6)
+### [MYDFIR YouTube: SOC Automation Guide](https://www.youtube.com/watch?v=XR3eamn8ydQ&list=PLG6KGSNK4PuBWmX9NykU0wnWamjxdKhDJ&index=6)
 
 ## Objective
 This guided project aimed to set up a Security Operations Center (SOC) environment to monitor and protect a home network. The project focuses on the detection and analysis of potential security threats using industry-standard tools and methodologies.
